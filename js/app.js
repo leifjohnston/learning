@@ -23,6 +23,7 @@
                 );
             };
         }
+        FastClick.attach(document.body);
     }, false);
 
     /* ---------------------------------- Local Functions ---------------------------------- */
